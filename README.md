@@ -46,3 +46,6 @@ instead of being collapsed early into a UR rotation vector (RX/RY/RZ).
 - `numpy`
 - `requests`
 - `rtde_control`, `rtde_receive` (Universal Robots RTDE Python client library)
+
+## Disclaimer:
+Some sections were created by the use of AI and helped us in providing suggestions
